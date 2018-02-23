@@ -3,5 +3,6 @@
     <element label="Add employee" max_length="40" name="x_174783_gitvideo_add_employee" type="collection">
         <element label="ID" max_length="40" name="id" type="integer"/>
         <element label="Name" max_length="40" name="name" type="string"/>
+        <element lable="Phone" max_length="10" name=phone" type="integer"/>
     </element>
 </database>
